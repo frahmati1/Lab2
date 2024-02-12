@@ -10,3 +10,8 @@ def print_script_and_variables():
 if __name__ == "__main__":
     print_script_and_variables()
 
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
+
